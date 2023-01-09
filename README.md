@@ -1,5 +1,4 @@
-# CRUD JAVA: Socios Gimnasio    <img src="images_github/mancuerna.png" alt="">
-
+# CRUD JAVA: Socios Gimnasio  <img src="images_github/mancuerna.png" style="width: 60px; height: 60px;" alt="">     
 Crud Creado como Trabajo Final para el Curso de JAVA de Codo a Codo.
 
 ## Partes del CRUD
